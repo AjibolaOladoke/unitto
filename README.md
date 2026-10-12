@@ -6,7 +6,7 @@ We keep a working index for product and engineering, and unitto is the entry tha
 
 ## Images
 
-[![unitto](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![unitto](images/preview.png)](https://github.com/Swift-Tech-Co/unitto)
 
 ## 🌐 State of Unitto Web (Alpha)
 - Main features are on par with Android version (including accuracy of calculations)
@@ -25,9 +25,9 @@ We keep a working index for product and engineering, and unitto is the entry tha
 Leave.
 
 ## 🔎 Additional
-- Terms and Conditions: https://www.swifttechco.com
-- Privacy Policy: https://www.swifttechco.com
-- Help: https://www.swifttechco.com
+- Terms and Conditions: https://github.com/Swift-Tech-Co/unitto
+- Privacy Policy: https://github.com/Swift-Tech-Co/unitto
+- Help: https://github.com/Swift-Tech-Co/unitto
 
 ---
 
@@ -43,13 +43,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/unitto
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [sadellie/unitto](https://github.com/sadellie/unitto) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
